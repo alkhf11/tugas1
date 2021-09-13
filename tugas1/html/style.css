@@ -1,0 +1,52 @@
+body {
+    background-image: url('image/bg.jfif');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.contact{
+    font-size : 16pt;
+    color: rgb(0, 0, 0);
+    font-family: 'Cambria', monospace;
+    
+    
+}
+.latartext{
+    background-color: rgb(255, 255, 255);
+}
+.judul{
+    font-size: 30pt;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    font-family: 'Inconsolata', Georgia, Times, 'Times New Roman', serif;
+}
+.btn-group {
+    width: fit-content;
+    margin: auto;
+    display: block;
+}
+h1 {
+    font-size: 20pt;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    display:table;background-color: bisque;
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
+h2 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:pink;
+}
+h3 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.kontak {
+    display:background-color: black;
+}
